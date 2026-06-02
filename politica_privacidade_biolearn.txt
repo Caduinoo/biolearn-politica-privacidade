@@ -1,0 +1,13 @@
+Política de Privacidade - BioLearn
+
+Última atualização: maio de 2026
+
+O aplicativo BioLearn é um aplicativo educativo desenvolvido para fins acadêmicos na disciplina Desenvolvimento de Software.
+
+O aplicativo não coleta dados pessoais dos usuários, como nome, e-mail, telefone, localização, fotos, contatos ou informações sensíveis.
+
+O aplicativo salva apenas informações simples de progresso no próprio dispositivo, como pontuação total e quantidade de quizzes concluídos. Esses dados ficam armazenados localmente e não são enviados para servidores externos.
+
+O aplicativo não possui login, não possui anúncios, não possui compras internas e não compartilha dados com terceiros.
+
+Em caso de dúvidas sobre privacidade, entre em contato com a equipe responsável pelo projeto.
